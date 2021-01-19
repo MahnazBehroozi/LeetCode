@@ -1,3 +1,4 @@
+[Discussion Post (created on 19/0/2021 at 11:0)](https://leetcode.com/problems/intersection-of-three-sorted-arrays/solution/)  
 <h2>1213. Intersection of Three Sorted Arrays</h2><h3>Easy</h3><hr><div><p>Given three integer arrays <code>arr1</code>, <code>arr2</code> and <code>arr3</code>&nbsp;<strong>sorted</strong> in <strong>strictly increasing</strong> order, return a sorted array of <strong>only</strong>&nbsp;the&nbsp;integers that appeared in <strong>all</strong> three arrays.</p>
 
 <p>&nbsp;</p>
